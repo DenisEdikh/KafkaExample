@@ -1,1 +1,1 @@
-# KafkaExample
+# Тренировка по настройке Kafka
